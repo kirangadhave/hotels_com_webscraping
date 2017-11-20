@@ -1,0 +1,1512 @@
+1511180513682	geckodriver	INFO	geckodriver 0.19.1
+1511180513684	geckodriver	INFO	Listening on 127.0.0.1:47733
+1511180514771	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.wvRD2D27Ic8q"
+1511180515119	Marionette	INFO	Enabled via --marionette
+1511180516040	Marionette	INFO	Listening on port 42267
+1511180516095	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511180516137	Marionette	DEBUG	Register listener.js for window 2147483649
+1511180516156	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511180519774	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511180519775	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511180520345	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511180520428	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-11-29&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+
+(/usr/lib/firefox/firefox:27368): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511180523391	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1511180523391	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1511180523391	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1511180523778	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511180523778	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1511180524598	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-11-29&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+1511180572474	geckodriver	INFO	geckodriver 0.19.1
+1511180572476	geckodriver	INFO	Listening on 127.0.0.1:50425
+1511180573555	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Pgn6Lfp0Jz27"
+1511180573929	Marionette	INFO	Enabled via --marionette
+1511180574810	Marionette	INFO	Listening on port 38991
+1511180574860	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511180574907	Marionette	DEBUG	Register listener.js for window 2147483649
+1511180574923	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511180576500	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511180576500	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511180577058	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511180577145	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-11-29&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+
+(/usr/lib/firefox/firefox:27638): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511180579719	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511180579719	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511180579719	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1511180580138	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1511180580139	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1511180580626	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-11-29&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1511180872630	geckodriver	INFO	geckodriver 0.19.1
+1511180872632	geckodriver	INFO	Listening on 127.0.0.1:54985
+1511180873747	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.HFnENj37D6Xy"
+1511180874132	Marionette	INFO	Enabled via --marionette
+1511180875024	Marionette	INFO	Listening on port 36937
+1511180875082	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511180875125	Marionette	DEBUG	Register listener.js for window 2147483649
+1511180875141	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511180876362	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511180876362	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511180876939	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511180877021	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-11-29&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+
+(/usr/lib/firefox/firefox:28456): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511180879355	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1511180879356	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511180879356	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511180879778	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1511180879780	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1511180881175	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-11-29&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1511180996854	geckodriver	INFO	geckodriver 0.19.1
+1511180996857	geckodriver	INFO	Listening on 127.0.0.1:43773
+1511180997949	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.xrmmTJLunWFd"
+1511180998316	Marionette	INFO	Enabled via --marionette
+1511180999212	Marionette	INFO	Listening on port 33563
+1511180999262	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511180999304	Marionette	DEBUG	Register listener.js for window 2147483649
+1511180999319	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511181000655	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511181000655	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511181001257	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511181001349	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-11-29&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+
+(/usr/lib/firefox/firefox:28817): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511181004118	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511181004118	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511181004118	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1511181004583	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1511181004583	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1511181005262	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-11-29&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1511181166292	geckodriver	INFO	geckodriver 0.19.1
+1511181166294	geckodriver	INFO	Listening on 127.0.0.1:57289
+1511181167409	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.DAgEAqt3NfxG"
+1511181167765	Marionette	INFO	Enabled via --marionette
+1511181168677	Marionette	INFO	Listening on port 45595
+1511181168733	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511181168777	Marionette	DEBUG	Register listener.js for window 2147483649
+1511181168794	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511181169932	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511181169932	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511181170686	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511181170769	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-11-29&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+
+(/usr/lib/firefox/firefox:29236): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511181173381	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511181173381	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511181173381	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1511181173804	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1511181173805	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1511181174465	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-11-29&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1511181197731	geckodriver	INFO	geckodriver 0.19.1
+1511181197733	geckodriver	INFO	Listening on 127.0.0.1:46393
+1511181198823	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.HS6q5MFZWJAh"
+1511181199177	Marionette	INFO	Enabled via --marionette
+1511181200086	Marionette	INFO	Listening on port 43937
+1511181200142	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511181200183	Marionette	DEBUG	Register listener.js for window 2147483649
+1511181200195	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511181201324	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511181201325	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511181201859	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511181201963	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-11-29&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+
+(/usr/lib/firefox/firefox:29427): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511181204596	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511181204596	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511181204596	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1511181205025	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1511181205025	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1511181205820	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-11-29&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1511181265987	geckodriver	INFO	geckodriver 0.19.1
+1511181265990	geckodriver	INFO	Listening on 127.0.0.1:55049
+1511181267106	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.2L4ukzFJPJC6"
+1511181267481	Marionette	INFO	Enabled via --marionette
+1511181268385	Marionette	INFO	Listening on port 43037
+1511181268436	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511181268481	Marionette	DEBUG	Register listener.js for window 2147483649
+1511181268490	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511181269596	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511181269596	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511181270176	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511181270283	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-11-29&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+
+(/usr/lib/firefox/firefox:29737): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511181272478	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511181272478	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511181272478	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1511181272948	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1511181272949	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1511181273578	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-11-29&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1690, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1690, column: 0
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:620:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:577:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:668:7
+Line: 1690, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:620:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:577:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:668:7
+Line: 1690, column: 0
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1511181350619	geckodriver	INFO	geckodriver 0.19.1
+1511181350622	geckodriver	INFO	Listening on 127.0.0.1:46817
+1511181351704	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.p9LaF77fUhaf"
+1511181352053	Marionette	INFO	Enabled via --marionette
+1511181352983	Marionette	INFO	Listening on port 37217
+1511181353034	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511181353081	Marionette	DEBUG	Register listener.js for window 2147483649
+1511181353101	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511181354298	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511181354298	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511181354896	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511181354985	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-11-29&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+
+(/usr/lib/firefox/firefox:29973): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511181357568	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511181357568	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511181357568	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1511181358081	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1511181358082	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1511181358728	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-11-29&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1690, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1690, column: 0
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:620:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:577:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:668:7
+Line: 1690, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:620:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:577:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:668:7
+Line: 1690, column: 0
+1511181482865	geckodriver	INFO	geckodriver 0.19.1
+1511181482867	geckodriver	INFO	Listening on 127.0.0.1:59833
+1511181483954	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.jaOCYrOdHbAc"
+1511181484315	Marionette	INFO	Enabled via --marionette
+1511181485280	Marionette	INFO	Listening on port 38349
+1511181485362	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511181485405	Marionette	DEBUG	Register listener.js for window 2147483649
+1511181485415	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511181486582	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511181486582	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511181487228	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511181487321	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-11-29&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+
+(/usr/lib/firefox/firefox:30289): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511181490088	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511181490088	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511181490088	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1511181490486	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1511181490487	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1511181491114	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-11-29&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1511181522443	geckodriver	INFO	geckodriver 0.19.1
+1511181522446	geckodriver	INFO	Listening on 127.0.0.1:55517
+1511181523530	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.jHo47ch4ju4e"
+1511181523899	Marionette	INFO	Enabled via --marionette
+1511181524784	Marionette	INFO	Listening on port 40637
+1511181524836	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511181524883	Marionette	DEBUG	Register listener.js for window 2147483649
+1511181524892	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511181526205	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511181526206	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511181526731	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511181526812	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-11-29&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+
+(/usr/lib/firefox/firefox:30498): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511181529095	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511181529095	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511181529095	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1511181529593	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1511181529593	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1511181530485	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-11-29&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+[Child 30498, Chrome_ChildThread] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 30498, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1511181584032	geckodriver	INFO	geckodriver 0.19.1
+1511181584034	geckodriver	INFO	Listening on 127.0.0.1:34163
+1511181585117	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.qgxLkXtveHYH"
+1511181585496	Marionette	INFO	Enabled via --marionette
+1511181586419	Marionette	INFO	Listening on port 36619
+1511181586427	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511181586469	Marionette	DEBUG	Register listener.js for window 2147483649
+1511181586481	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511181587684	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511181587684	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511181588287	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511181588373	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-11-29&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+
+(/usr/lib/firefox/firefox:30731): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511181591011	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511181591011	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511181591011	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1511181591466	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1511181591466	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1511181592086	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-11-29&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+[Child 30731, Chrome_ChildThread] WARNING: pipe error (44): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 30731, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1511181617326	geckodriver	INFO	geckodriver 0.19.1
+1511181617329	geckodriver	INFO	Listening on 127.0.0.1:42505
+1511181618443	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.S6TfsNLpZF4q"
+1511181618811	Marionette	INFO	Enabled via --marionette
+1511181619697	Marionette	INFO	Listening on port 43137
+1511181619752	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511181619807	Marionette	DEBUG	Register listener.js for window 2147483649
+1511181619821	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511181621032	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511181621033	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511181621972	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511181622056	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-11-29&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+
+(/usr/lib/firefox/firefox:30919): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511181627302	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511181627303	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511181627303	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1511181627745	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1511181627745	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1511181628389	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-11-29&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+[Child 30919, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1511181861148	geckodriver	INFO	geckodriver 0.19.1
+1511181861151	geckodriver	INFO	Listening on 127.0.0.1:37407
+1511181862242	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.D4Eb22YDJAfE"
+1511181862640	Marionette	INFO	Enabled via --marionette
+1511181863608	Marionette	INFO	Listening on port 39487
+1511181863653	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511181863697	Marionette	DEBUG	Register listener.js for window 2147483649
+1511181863705	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511181865523	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511181865523	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511181866783	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511181866918	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-11-29&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+
+(/usr/lib/firefox/firefox:31347): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511181869506	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511181869506	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511181869506	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1511181869934	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1511181869935	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1511181870713	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-11-29&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+[Child 31347, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1511181993286	geckodriver	INFO	geckodriver 0.19.1
+1511181993289	geckodriver	INFO	Listening on 127.0.0.1:48529
+1511181994372	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.HFmUWf3QyPFy"
+1511181994748	Marionette	INFO	Enabled via --marionette
+1511181995694	Marionette	INFO	Listening on port 43729
+1511181995783	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511181995825	Marionette	DEBUG	Register listener.js for window 2147483649
+1511181995833	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511181997235	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511181997235	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511181997826	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511181997910	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-11-29&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+
+(/usr/lib/firefox/firefox:31646): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511182000520	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511182000521	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511182000521	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1511182000919	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1511182000920	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1511182001596	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-11-29&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+[Child 31646, Chrome_ChildThread] WARNING: pipe error (44): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 31646, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1511182075221	geckodriver	INFO	geckodriver 0.19.1
+1511182075224	geckodriver	INFO	Listening on 127.0.0.1:46367
+1511182076309	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.0gUWWAF9o5HW"
+1511182076682	Marionette	INFO	Enabled via --marionette
+1511182077587	Marionette	INFO	Listening on port 44499
+1511182077616	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511182077668	Marionette	DEBUG	Register listener.js for window 2147483649
+1511182077681	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511182078784	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511182078785	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511182079328	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511182079434	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-11-29&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+
+(/usr/lib/firefox/firefox:31969): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511182081810	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511182081810	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511182081810	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1511182082293	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1511182082293	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1511182082919	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-11-29&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+[Child 31969, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1511182201469	geckodriver	INFO	geckodriver 0.19.1
+1511182201471	geckodriver	INFO	Listening on 127.0.0.1:55471
+1511182202555	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.msvxi7RfYX38"
+1511182202923	Marionette	INFO	Enabled via --marionette
+1511182203868	Marionette	INFO	Listening on port 43803
+1511182203965	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511182204007	Marionette	DEBUG	Register listener.js for window 2147483649
+1511182204022	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511182276335	geckodriver	INFO	geckodriver 0.19.1
+1511182276338	geckodriver	INFO	Listening on 127.0.0.1:45067
+1511182277423	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ITcX4pGRwXKZ"
+1511182277768	Marionette	INFO	Enabled via --marionette
+1511182278698	Marionette	INFO	Listening on port 42783
+1511182278748	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511182278801	Marionette	DEBUG	Register listener.js for window 2147483649
+1511182278814	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511182279848	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511182279848	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511182280357	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511182280443	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-11-29&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+
+(/usr/lib/firefox/firefox:32720): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511182282642	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1511182282642	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511182282642	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511182283033	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1511182283035	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1511182283443	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-11-29&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+[Child 32720, Chrome_ChildThread] WARNING: pipe error (44): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 32720, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1511182787471	geckodriver	INFO	geckodriver 0.19.1
+1511182787473	geckodriver	INFO	Listening on 127.0.0.1:54627
+1511182788567	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.hYmIH7Z93XeU"
+1511182788974	Marionette	INFO	Enabled via --marionette
+1511182789907	Marionette	INFO	Listening on port 39947
+1511182790002	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511182790048	Marionette	DEBUG	Register listener.js for window 2147483649
+1511182790061	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511182791277	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511182791278	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511182791940	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511182792042	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-11-29&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+
+(/usr/lib/firefox/firefox:1113): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511182794699	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511182794699	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511182794699	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1511182795093	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1511182795093	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1511182795732	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-11-29&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+[Child 1113, Chrome_ChildThread] WARNING: pipe error (44): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 1113, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1511182868638	geckodriver	INFO	geckodriver 0.19.1
+1511182868640	geckodriver	INFO	Listening on 127.0.0.1:46225
+1511182869719	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.kMXD2MMUUVT3"
+1511182870057	Marionette	INFO	Enabled via --marionette
+1511182870991	Marionette	INFO	Listening on port 45753
+1511182871049	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511182871091	Marionette	DEBUG	Register listener.js for window 2147483649
+1511182871108	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511182875063	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511182875063	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511182875644	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511182875725	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-11-30&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+1511182877223	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1511182877223	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1511182877226	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+
+(/usr/lib/firefox/firefox:1504): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511182878544	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1511182878544	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511182879320	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-11-30&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+[Child 1504, Chrome_ChildThread] WARNING: pipe error (44): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 1504, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1511182964667	geckodriver	INFO	geckodriver 0.19.1
+1511182964669	geckodriver	INFO	Listening on 127.0.0.1:52045
+1511182965749	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.mXyNpj5kFzwZ"
+1511182966095	Marionette	INFO	Enabled via --marionette
+1511182966996	Marionette	INFO	Listening on port 42877
+1511182967058	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511182967099	Marionette	DEBUG	Register listener.js for window 2147483649
+1511182967119	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511182970704	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511182970705	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511182971330	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511182971413	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-12-01&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+1511182972930	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1511182972930	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1511182972930	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+
+(/usr/lib/firefox/firefox:1895): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511182974258	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1511182974258	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511182975056	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-12-01&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+[Child 1895, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1511183037332	geckodriver	INFO	geckodriver 0.19.1
+1511183037334	geckodriver	INFO	Listening on 127.0.0.1:33803
+1511183038415	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.wYOTRJR3dY6w"
+1511183038825	Marionette	INFO	Enabled via --marionette
+1511183039741	Marionette	INFO	Listening on port 43385
+1511183039821	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511183039865	Marionette	DEBUG	Register listener.js for window 2147483649
+1511183039888	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511183041856	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511183041857	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511183042415	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511183042498	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-12-02&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+
+(/usr/lib/firefox/firefox:2236): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511183044934	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1511183044934	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511183044934	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511183045350	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1511183045350	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1511183045988	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-12-02&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+[Child 2236, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1511183115098	geckodriver	INFO	geckodriver 0.19.1
+1511183115101	geckodriver	INFO	Listening on 127.0.0.1:36067
+1511183116182	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.4rtFLxQJ7nOX"
+1511183116525	Marionette	INFO	Enabled via --marionette
+1511183117442	Marionette	INFO	Listening on port 34781
+1511183117492	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511183117538	Marionette	DEBUG	Register listener.js for window 2147483649
+1511183117548	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511183121370	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511183121371	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511183121951	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511183122040	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-12-03&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+
+(/usr/lib/firefox/firefox:2423): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511183124923	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1511183124923	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511183124923	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511183125348	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1511183125350	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1511183125777	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-12-03&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+[Child 2423, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 2423, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1511183198326	geckodriver	INFO	geckodriver 0.19.1
+1511183198328	geckodriver	INFO	Listening on 127.0.0.1:60105
+1511183199447	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.LRLgrLuDJPuD"
+1511183199787	Marionette	INFO	Enabled via --marionette
+1511183200709	Marionette	INFO	Listening on port 33531
+1511183200761	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511183200804	Marionette	DEBUG	Register listener.js for window 2147483649
+1511183200814	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511183203271	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511183203272	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511183203928	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511183204011	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-12-04&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+1511183205735	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1511183205735	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1511183205735	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+
+(/usr/lib/firefox/firefox:2612): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511183207125	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1511183207125	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511183207949	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-12-04&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+[Child 2612, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1511183276715	geckodriver	INFO	geckodriver 0.19.1
+1511183276717	geckodriver	INFO	Listening on 127.0.0.1:42851
+1511183277796	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.eV40giDzh8op"
+1511183278147	Marionette	INFO	Enabled via --marionette
+1511183279065	Marionette	INFO	Listening on port 34459
+1511183279111	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511183279157	Marionette	DEBUG	Register listener.js for window 2147483649
+1511183279184	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511183282449	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511183282450	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511183282982	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511183283084	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-12-05&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+
+(/usr/lib/firefox/firefox:2878): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511183285845	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511183285845	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511183285846	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1511183286333	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1511183286336	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1511183286794	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-12-05&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+[Child 2878, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1511183368635	geckodriver	INFO	geckodriver 0.19.1
+1511183368637	geckodriver	INFO	Listening on 127.0.0.1:57137
+1511183369744	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.JIHHd2AnV2R3"
+1511183370125	Marionette	INFO	Enabled via --marionette
+1511183371035	Marionette	INFO	Listening on port 37601
+1511183371075	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511183371119	Marionette	DEBUG	Register listener.js for window 2147483649
+1511183371135	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511183371866	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511183371866	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511183372465	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511183372550	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-rooms=1&q-room-0-adults=2&q-room-0-children=0&sort-order=DISTANCE_FROM_LANDMARK"
+
+(/usr/lib/firefox/firefox:3141): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511183374953	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511183374954	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511183374954	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1511183375469	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1511183375469	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1511183375469	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1511183376351	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-rooms=1&q-room-0-adults=2&q-room-0-children=0&sort-order=DISTANCE_FROM_LANDMARK"
+[Child 3141, Chrome_ChildThread] WARNING: pipe error (44): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 3141, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1511183437125	geckodriver	INFO	geckodriver 0.19.1
+1511183437128	geckodriver	INFO	Listening on 127.0.0.1:56365
+1511183438217	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.gHh33lSHQjYG"
+1511183438590	Marionette	INFO	Enabled via --marionette
+1511183439507	Marionette	INFO	Listening on port 37267
+1511183439553	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511183439598	Marionette	DEBUG	Register listener.js for window 2147483649
+1511183439608	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511183440321	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511183440322	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511183440880	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511183440965	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-rooms=1&q-room-0-adults=2&q-room-0-children=0&sort-order=DISTANCE_FROM_LANDMARK"
+
+(/usr/lib/firefox/firefox:3337): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511183443481	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511183443481	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511183443481	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1511183443968	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1511183443968	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1511183445007	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-rooms=1&q-room-0-adults=2&q-room-0-children=0&sort-order=DISTANCE_FROM_LANDMARK"
+[Child 3337, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1511183504563	geckodriver	INFO	geckodriver 0.19.1
+1511183504566	geckodriver	INFO	Listening on 127.0.0.1:51725
+1511183505646	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.UGtTAXxKwnJl"
+1511183505992	Marionette	INFO	Enabled via --marionette
+1511183506926	Marionette	INFO	Listening on port 41053
+1511183506984	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511183507028	Marionette	DEBUG	Register listener.js for window 2147483649
+1511183507039	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511183507857	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511183507857	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511183508496	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511183508583	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-rooms=1&q-room-0-adults=2&q-room-0-children=0&sort-order=DISTANCE_FROM_LANDMARK"
+
+(/usr/lib/firefox/firefox:3617): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511183511143	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511183511143	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511183511143	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1511183511659	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1511183511660	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1511183511660	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1511183513016	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-rooms=1&q-room-0-adults=2&q-room-0-children=0&sort-order=DISTANCE_FROM_LANDMARK"
+[Child 3617, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1511183878449	geckodriver	INFO	geckodriver 0.19.1
+1511183878452	geckodriver	INFO	Listening on 127.0.0.1:33345
+1511183879533	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.U1MuwfIYnepo"
+1511183879903	Marionette	INFO	Enabled via --marionette
+1511183880858	Marionette	INFO	Listening on port 43719
+1511183880939	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511183880983	Marionette	DEBUG	Register listener.js for window 2147483649
+1511183880995	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511183882264	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511183882264	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511183882834	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511183882919	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-11-29&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+
+(/usr/lib/firefox/firefox:4013): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511183885592	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511183885592	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1511183885592	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1511183886013	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1511183886013	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1511183886635	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-11-29&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+[Child 4013, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1511183961157	geckodriver	INFO	geckodriver 0.19.1
+1511183961159	geckodriver	INFO	Listening on 127.0.0.1:36351
+1511183962244	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.jUUX04SKEFSx"
+1511183962592	Marionette	INFO	Enabled via --marionette
+1511183963539	Marionette	INFO	Listening on port 42653
+1511183963549	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511183963590	Marionette	DEBUG	Register listener.js for window 2147483649
+1511183963610	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511183964843	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511183964843	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511183965535	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511183965619	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-11-30&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+
+(/usr/lib/firefox/firefox:4251): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511183968285	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511183968285	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1511183968285	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1511183968749	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1511183968749	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1511183969411	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-11-30&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+[Child 4251, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1511184047052	geckodriver	INFO	geckodriver 0.19.1
+1511184047054	geckodriver	INFO	Listening on 127.0.0.1:54075
+1511184048135	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.OwQeLePu1vao"
+1511184048503	Marionette	INFO	Enabled via --marionette
+1511184049432	Marionette	INFO	Listening on port 34531
+1511184049441	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511184049481	Marionette	DEBUG	Register listener.js for window 2147483649
+1511184049495	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511184050656	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511184050656	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511184051255	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511184051339	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-12-01&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+
+(/usr/lib/firefox/firefox:4446): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511184053551	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1511184053551	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511184053552	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511184053951	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1511184054484	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-12-01&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+[Child 4446, Chrome_ChildThread] WARNING: pipe error (44): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 4446, Chrome_ChildThread] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 4446, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1511184117731	geckodriver	INFO	geckodriver 0.19.1
+1511184117733	geckodriver	INFO	Listening on 127.0.0.1:48171
+1511184118816	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.vc1YI5m4yziU"
+1511184119184	Marionette	INFO	Enabled via --marionette
+1511184120115	Marionette	INFO	Listening on port 45233
+1511184120160	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511184120206	Marionette	DEBUG	Register listener.js for window 2147483649
+1511184120228	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511184121259	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511184121259	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511184121788	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511184121881	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-12-02&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+
+(/usr/lib/firefox/firefox:4628): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511184124406	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511184124406	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511184124406	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1511184124678	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-12-02&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+[Child 4628, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1511184193576	geckodriver	INFO	geckodriver 0.19.1
+1511184193578	geckodriver	INFO	Listening on 127.0.0.1:48791
+1511184194658	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.bWWXWy6ey2nZ"
+1511184195015	Marionette	INFO	Enabled via --marionette
+1511184196491	Marionette	INFO	Listening on port 40767
+1511184196566	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511184196614	Marionette	DEBUG	Register listener.js for window 2147483649
+1511184196621	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511184197746	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511184197746	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511184198286	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511184198368	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-12-03&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+
+(/usr/lib/firefox/firefox:4809): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511184201048	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511184201048	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511184201048	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1511184201527	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1511184201527	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1511184202156	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-12-03&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+[Child 4809, Chrome_ChildThread] WARNING: pipe error (44): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 4809, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1511184276026	geckodriver	INFO	geckodriver 0.19.1
+1511184276028	geckodriver	INFO	Listening on 127.0.0.1:52999
+1511184277107	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.aCDEpArASYaA"
+1511184277464	Marionette	INFO	Enabled via --marionette
+1511184278378	Marionette	INFO	Listening on port 36777
+1511184278436	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511184278480	Marionette	DEBUG	Register listener.js for window 2147483649
+1511184278502	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511184279522	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511184279523	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511184280056	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511184280139	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-12-04&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+
+(/usr/lib/firefox/firefox:5069): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511184282492	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1511184282492	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511184282492	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511184282808	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1511184282810	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1511184283235	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-12-04&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+[Child 5069, Chrome_ChildThread] WARNING: pipe error (44): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 5069, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 5069, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1511184350655	geckodriver	INFO	geckodriver 0.19.1
+1511184350658	geckodriver	INFO	Listening on 127.0.0.1:52001
+1511184351737	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.WeR5eJJKcogi"
+1511184352103	Marionette	INFO	Enabled via --marionette
+1511184353031	Marionette	INFO	Listening on port 36671
+1511184353076	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511184353121	Marionette	DEBUG	Register listener.js for window 2147483649
+1511184353138	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511184354307	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511184354307	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511184354940	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511184355027	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-12-05&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+
+(/usr/lib/firefox/firefox:5249): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511184357276	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511184357276	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511184357276	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1511184357666	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1511184357666	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1511184358367	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-12-05&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+[Child 5249, Chrome_ChildThread] WARNING: pipe error (44): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 5249, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1511184426993	geckodriver	INFO	geckodriver 0.19.1
+1511184426996	geckodriver	INFO	Listening on 127.0.0.1:37523
+1511184428078	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.z7qf7diqnclA"
+1511184428455	Marionette	INFO	Enabled via --marionette
+1511184429363	Marionette	INFO	Listening on port 37237
+1511184429384	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511184429426	Marionette	DEBUG	Register listener.js for window 2147483649
+1511184429436	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511184430263	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511184430263	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511184430876	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511184430961	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-rooms=1&q-room-0-adults=2&q-room-0-children=0&sort-order=DISTANCE_FROM_LANDMARK"
+
+(/usr/lib/firefox/firefox:5448): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511184433481	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511184433481	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511184433481	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1511184433939	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1511184433939	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1511184433940	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1511184434898	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-rooms=1&q-room-0-adults=2&q-room-0-children=0&sort-order=DISTANCE_FROM_LANDMARK"
+[Child 5448, Chrome_ChildThread] WARNING: pipe error (44): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 5448, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1511184493416	geckodriver	INFO	geckodriver 0.19.1
+1511184493419	geckodriver	INFO	Listening on 127.0.0.1:41415
+1511184494533	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.kamWrfSjeplT"
+1511184494899	Marionette	INFO	Enabled via --marionette
+1511184495817	Marionette	INFO	Listening on port 44409
+1511184495867	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511184495921	Marionette	DEBUG	Register listener.js for window 2147483649
+1511184495935	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511184497026	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511184497027	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511184497611	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511184497701	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-rooms=1&q-room-0-adults=2&q-room-0-children=0&sort-order=DISTANCE_FROM_LANDMARK"
+
+(/usr/lib/firefox/firefox:5633): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511184500168	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511184500168	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511184500168	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1511184500708	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1511184500708	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1511184500709	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1511184502077	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-rooms=1&q-room-0-adults=2&q-room-0-children=0&sort-order=DISTANCE_FROM_LANDMARK"
+[Child 5633, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1511184559519	geckodriver	INFO	geckodriver 0.19.1
+1511184559521	geckodriver	INFO	Listening on 127.0.0.1:40729
+1511184560638	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.KS44WpQaGsRj"
+1511184560981	Marionette	INFO	Enabled via --marionette
+1511184561868	Marionette	INFO	Listening on port 38393
+1511184561944	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511184561986	Marionette	DEBUG	Register listener.js for window 2147483649
+1511184562007	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511184562946	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511184562947	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511184563482	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511184563566	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-rooms=1&q-room-0-adults=2&q-room-0-children=0&sort-order=DISTANCE_FROM_LANDMARK"
+
+(/usr/lib/firefox/firefox:5852): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511184565688	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1511184565688	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511184565688	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511184566140	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1511184566142	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1511184566144	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1511184566887	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-rooms=1&q-room-0-adults=2&q-room-0-children=0&sort-order=DISTANCE_FROM_LANDMARK"
+[Child 5852, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1511184667390	geckodriver	INFO	geckodriver 0.19.1
+1511184667393	geckodriver	INFO	Listening on 127.0.0.1:34681
+1511184668474	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.SDTrOPgwIrv0"
+1511184668842	Marionette	INFO	Enabled via --marionette
+1511184669808	Marionette	INFO	Listening on port 44813
+1511184669883	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511184669926	Marionette	DEBUG	Register listener.js for window 2147483649
+1511184669938	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511184673584	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511184673584	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511184674305	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511184674384	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-11-29&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+1511184675887	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1511184675887	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1511184675887	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+
+(/usr/lib/firefox/firefox:6069): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511184761751	geckodriver	INFO	geckodriver 0.19.1
+1511184761753	geckodriver	INFO	Listening on 127.0.0.1:53365
+1511184762835	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Pl3Ip8UHOI1U"
+1511184763182	Marionette	INFO	Enabled via --marionette
+1511184764160	Marionette	INFO	Listening on port 35085
+1511184764246	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511184764302	Marionette	DEBUG	Register listener.js for window 2147483649
+1511184764311	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511184765788	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511184765788	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511184766320	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511184766415	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-11-29&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+
+(/usr/lib/firefox/firefox:6401): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511184768880	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511184768880	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511184768880	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1511184769287	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1511184769289	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1511184769741	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-11-29&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+[Child 6401, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1511184839344	geckodriver	INFO	geckodriver 0.19.1
+1511184839347	geckodriver	INFO	Listening on 127.0.0.1:43667
+1511184840462	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.n26CiVOahUpR"
+1511184840853	Marionette	INFO	Enabled via --marionette
+1511184841807	Marionette	INFO	Listening on port 41531
+1511184841868	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511184841915	Marionette	DEBUG	Register listener.js for window 2147483649
+1511184841925	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511184845472	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511184845472	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511184846098	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511184846186	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-11-30&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+
+(/usr/lib/firefox/firefox:6694): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511184849083	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1511184849083	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1511184849083	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1511184849636	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511184849636	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1511184850272	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-11-30&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+[Child 6694, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1511184922649	geckodriver	INFO	geckodriver 0.19.1
+1511184922651	geckodriver	INFO	Listening on 127.0.0.1:43933
+1511184923768	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.G7XFeImSsNF3"
+1511184924191	Marionette	INFO	Enabled via --marionette
+1511184925150	Marionette	INFO	Listening on port 32789
+1511184925195	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511184925239	Marionette	DEBUG	Register listener.js for window 2147483649
+1511184925249	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511184929367	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511184929367	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511184930105	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511184930196	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-12-01&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+
+(/usr/lib/firefox/firefox:6905): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511184933034	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1511184933035	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1511184933035	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1511184933486	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511184933489	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1511184933901	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-12-01&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+[Child 6905, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1511185010807	geckodriver	INFO	geckodriver 0.19.1
+1511185010810	geckodriver	INFO	Listening on 127.0.0.1:33291
+1511185011893	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.V6EuEYVbGZVY"
+1511185012320	Marionette	INFO	Enabled via --marionette
+1511185013290	Marionette	INFO	Listening on port 42645
+1511185013331	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511185013387	Marionette	DEBUG	Register listener.js for window 2147483649
+1511185013412	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511185015763	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511185015763	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511185016299	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511185016384	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-12-02&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+1511185017982	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1511185017982	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1511185017982	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+
+(/usr/lib/firefox/firefox:7098): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511185019639	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1511185019640	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511185020383	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-12-02&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+[Child 7098, Chrome_ChildThread] WARNING: pipe error (44): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 7098, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1511185091647	geckodriver	INFO	geckodriver 0.19.1
+1511185091649	geckodriver	INFO	Listening on 127.0.0.1:40303
+1511185092763	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.2YIXqsymzDUm"
+1511185093150	Marionette	INFO	Enabled via --marionette
+1511185094120	Marionette	INFO	Listening on port 40221
+1511185094178	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511185094225	Marionette	DEBUG	Register listener.js for window 2147483649
+1511185094236	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511185097857	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511185097857	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511185098419	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511185098518	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-12-03&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+1511185099729	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1511185099729	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1511185099729	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+
+(/usr/lib/firefox/firefox:7297): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511185101991	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1511185101991	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511185104134	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-12-03&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+[Child 7297, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1511185173184	geckodriver	INFO	geckodriver 0.19.1
+1511185173187	geckodriver	INFO	Listening on 127.0.0.1:55137
+1511185174300	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.gZjBlHYnyV05"
+1511185174719	Marionette	INFO	Enabled via --marionette
+1511185175695	Marionette	INFO	Listening on port 41385
+1511185175714	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511185175758	Marionette	DEBUG	Register listener.js for window 2147483649
+1511185175770	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511185176839	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511185176840	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511185177457	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511185177541	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-12-04&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+
+(/usr/lib/firefox/firefox:7536): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511185180013	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511185180013	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511185180013	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1511185180404	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1511185180405	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1511185181170	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-12-04&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+[Child 7536, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1511185260488	geckodriver	INFO	geckodriver 0.19.1
+1511185260490	geckodriver	INFO	Listening on 127.0.0.1:48421
+1511185261601	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.oRkL9ieUmo8A"
+1511185262016	Marionette	INFO	Enabled via --marionette
+1511185262959	Marionette	INFO	Listening on port 42937
+1511185263012	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511185263058	Marionette	DEBUG	Register listener.js for window 2147483649
+1511185263068	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511185264109	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511185264110	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511185264801	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511185264886	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-12-05&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+
+(/usr/lib/firefox/firefox:7736): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511185267143	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511185267143	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511185267143	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1511185267612	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1511185267612	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1511185267612	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1511185268602	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-12-05&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+[Child 7736, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1511185342191	geckodriver	INFO	geckodriver 0.19.1
+1511185342194	geckodriver	INFO	Listening on 127.0.0.1:54897
+1511185343305	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.4MqnXOXl6say"
+1511185343715	Marionette	INFO	Enabled via --marionette
+1511185344673	Marionette	INFO	Listening on port 43475
+1511185344721	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511185344779	Marionette	DEBUG	Register listener.js for window 2147483649
+1511185344793	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511185347004	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511185347005	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511185347527	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511185347621	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-rooms=1&q-room-0-adults=2&q-room-0-children=0&sort-order=DISTANCE_FROM_LANDMARK"
+
+(/usr/lib/firefox/firefox:7940): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511185349882	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1511185349882	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1511185349882	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1511185350218	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511185350218	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511185351075	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-rooms=1&q-room-0-adults=2&q-room-0-children=0&sort-order=DISTANCE_FROM_LANDMARK"
+[Child 7940, Chrome_ChildThread] WARNING: pipe error (44): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x100027,name=PBackground::Msg_PHttpBackgroundChannelConstructor) Channel error: cannot send/recv
+
+[Child 7940, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1511185408912	geckodriver	INFO	geckodriver 0.19.1
+1511185408915	geckodriver	INFO	Listening on 127.0.0.1:58673
+1511185410009	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.FkWHOrtdPEjF"
+1511185410473	Marionette	INFO	Enabled via --marionette
+1511185411532	Marionette	INFO	Listening on port 39647
+1511185411623	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511185411671	Marionette	DEBUG	Register listener.js for window 2147483649
+1511185411687	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511185412479	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511185412479	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511185413099	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511185413200	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-rooms=1&q-room-0-adults=2&q-room-0-children=0&sort-order=DISTANCE_FROM_LANDMARK"
+
+(/usr/lib/firefox/firefox:8131): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511185415097	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1511185415097	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1511185415097	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1511185415617	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511185415618	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511185415618	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1511185416338	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-rooms=1&q-room-0-adults=2&q-room-0-children=0&sort-order=DISTANCE_FROM_LANDMARK"
+[Child 8131, Chrome_ChildThread] WARNING: pipe error (44): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 8131, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1511185477327	geckodriver	INFO	geckodriver 0.19.1
+1511185477330	geckodriver	INFO	Listening on 127.0.0.1:38335
+1511185478422	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.d5hk5SnrXkO3"
+1511185478793	Marionette	INFO	Enabled via --marionette
+1511185479706	Marionette	INFO	Listening on port 33563
+1511185479760	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511185479805	Marionette	DEBUG	Register listener.js for window 2147483649
+1511185479815	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511185480845	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511185480846	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511185481344	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511185481440	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-rooms=1&q-room-0-adults=2&q-room-0-children=0&sort-order=DISTANCE_FROM_LANDMARK"
+
+(/usr/lib/firefox/firefox:8559): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511185483811	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511185483811	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511185483811	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1511185484364	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1511185484364	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1511185484365	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1511185485526	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-rooms=1&q-room-0-adults=2&q-room-0-children=0&sort-order=DISTANCE_FROM_LANDMARK"
+[Child 8559, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1511185566893	geckodriver	INFO	geckodriver 0.19.1
+1511185566896	geckodriver	INFO	Listening on 127.0.0.1:42563
+1511185567987	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.bLGxbg4bcAMA"
+1511185568359	Marionette	INFO	Enabled via --marionette
+1511185569296	Marionette	INFO	Listening on port 39981
+1511185569398	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511185569452	Marionette	DEBUG	Register listener.js for window 2147483649
+1511185569462	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511185570665	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511185570665	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511185571236	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511185571330	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-11-29&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+
+(/usr/lib/firefox/firefox:8956): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511185573645	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511185573645	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511185573645	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1511185574070	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1511185574508	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-11-29&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+[Child 8956, Chrome_ChildThread] WARNING: pipe error (44): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 8956, Chrome_ChildThread] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 8956, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1511185642954	geckodriver	INFO	geckodriver 0.19.1
+1511185642957	geckodriver	INFO	Listening on 127.0.0.1:47259
+1511185644047	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.7WIA8xt1A5tc"
+1511185644426	Marionette	INFO	Enabled via --marionette
+1511185645347	Marionette	INFO	Listening on port 40671
+1511185645354	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511185645397	Marionette	DEBUG	Register listener.js for window 2147483649
+1511185645422	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511185646576	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511185646576	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511185647129	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511185647223	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-11-30&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+
+(/usr/lib/firefox/firefox:9161): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511185649649	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511185649649	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511185649649	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1511185650033	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1511185650033	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1511185650705	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-11-30&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+[Child 9161, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1511185729389	geckodriver	INFO	geckodriver 0.19.1
+1511185729391	geckodriver	INFO	Listening on 127.0.0.1:36197
+1511185730483	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.TvPLOU5KJlnM"
+1511185730868	Marionette	INFO	Enabled via --marionette
+1511185731798	Marionette	INFO	Listening on port 42861
+1511185731889	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511185731933	Marionette	DEBUG	Register listener.js for window 2147483649
+1511185731947	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511185733517	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511185733517	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511185734083	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511185734178	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-12-01&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+
+(/usr/lib/firefox/firefox:9349): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511185736937	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1511185736938	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511185736938	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511185737355	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1511185737357	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1511185737817	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-12-01&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+[Child 9349, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1511185809920	geckodriver	INFO	geckodriver 0.19.1
+1511185809922	geckodriver	INFO	Listening on 127.0.0.1:33837
+1511185811009	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.bvmh6nURXE8c"
+1511185811380	Marionette	INFO	Enabled via --marionette
+1511185812304	Marionette	INFO	Listening on port 45703
+1511185812348	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511185812408	Marionette	DEBUG	Register listener.js for window 2147483649
+1511185812430	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511185813889	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511185813889	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511185814419	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511185814508	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-12-02&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+
+(/usr/lib/firefox/firefox:9569): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511185817098	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1511185817098	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1511185817099	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511185817494	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1511185817494	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1511185818283	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-12-02&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+[Child 9569, Chrome_ChildThread] WARNING: pipe error (44): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 9569, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1511185889734	geckodriver	INFO	geckodriver 0.19.1
+1511185889737	geckodriver	INFO	Listening on 127.0.0.1:58043
+1511185890815	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.xv1btdDtnUGC"
+1511185891214	Marionette	INFO	Enabled via --marionette
+1511185892134	Marionette	INFO	Listening on port 36467
+1511185892226	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511185892282	Marionette	DEBUG	Register listener.js for window 2147483649
+1511185892291	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511185893565	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511185893565	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511185894142	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511185894230	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-12-03&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+
+(/usr/lib/firefox/firefox:9770): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511185896905	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511185896905	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511185896905	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1511185897462	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1511185897462	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1511185897462	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1511185898543	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-12-03&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+[Child 9770, Chrome_ChildThread] WARNING: pipe error (44): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 9770, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1511185972874	geckodriver	INFO	geckodriver 0.19.1
+1511185972876	geckodriver	INFO	Listening on 127.0.0.1:43579
+1511185973965	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.LBcp4hvOzoxT"
+1511185974341	Marionette	INFO	Enabled via --marionette
+1511185975293	Marionette	INFO	Listening on port 37139
+1511185975372	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511185975422	Marionette	DEBUG	Register listener.js for window 2147483649
+1511185975437	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511185976441	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511185976441	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511185977096	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511185977174	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-12-04&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+
+(/usr/lib/firefox/firefox:9968): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511185979402	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511185979402	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511185979402	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1511185979801	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1511185979802	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1511185980448	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-12-04&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+[Child 9968, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1511186050917	geckodriver	INFO	geckodriver 0.19.1
+1511186050920	geckodriver	INFO	Listening on 127.0.0.1:52355
+1511186052002	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.e3FMsk5q1lNJ"
+1511186052421	Marionette	INFO	Enabled via --marionette
+1511186053899	Marionette	INFO	Listening on port 45185
+1511186053922	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511186053973	Marionette	DEBUG	Register listener.js for window 2147483649
+1511186053988	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511186055014	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511186055015	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511186055536	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511186055624	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-12-05&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+
+(/usr/lib/firefox/firefox:10203): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511186057882	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511186057882	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511186057882	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1511186058340	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1511186058340	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1511186058341	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1511186059246	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-12-05&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+[Child 10203, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1511186133140	geckodriver	INFO	geckodriver 0.19.1
+1511186133143	geckodriver	INFO	Listening on 127.0.0.1:35667
+1511186134226	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.mLQKLaSW3zwv"
+1511186134664	Marionette	INFO	Enabled via --marionette
+1511186135575	Marionette	INFO	Listening on port 37205
+1511186135635	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511186135698	Marionette	DEBUG	Register listener.js for window 2147483649
+1511186135721	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511186136633	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511186136633	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511186137152	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511186137244	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-rooms=1&q-room-0-adults=2&q-room-0-children=0&sort-order=DISTANCE_FROM_LANDMARK"
+
+(/usr/lib/firefox/firefox:10457): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511186139584	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1511186139584	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511186139584	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511186140033	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1511186140033	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1511186140033	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1511186150956	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-rooms=1&q-room-0-adults=2&q-room-0-children=0&sort-order=DISTANCE_FROM_LANDMARK"
+[Child 10457, Chrome_ChildThread] WARNING: pipe error (44): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 10457, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1511186212864	geckodriver	INFO	geckodriver 0.19.1
+1511186212866	geckodriver	INFO	Listening on 127.0.0.1:58149
+1511186213947	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.R6bOSeciUJIN"
+1511186214317	Marionette	INFO	Enabled via --marionette
+1511186215257	Marionette	INFO	Listening on port 44747
+1511186215357	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511186215410	Marionette	DEBUG	Register listener.js for window 2147483649
+1511186215419	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511186216335	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511186216335	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511186216826	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511186216924	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-rooms=1&q-room-0-adults=2&q-room-0-children=0&sort-order=DISTANCE_FROM_LANDMARK"
+
+(/usr/lib/firefox/firefox:10642): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511186219135	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511186219135	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511186219135	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1511186219421	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1511186219422	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1511186220028	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-rooms=1&q-room-0-adults=2&q-room-0-children=0&sort-order=DISTANCE_FROM_LANDMARK"
+[Child 10642, Chrome_ChildThread] WARNING: pipe error (44): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 10642, Chrome_ChildThread] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 10642, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1511186278857	geckodriver	INFO	geckodriver 0.19.1
+1511186278859	geckodriver	INFO	Listening on 127.0.0.1:39565
+1511186279942	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.oygQTmDiwdBs"
+1511186280352	Marionette	INFO	Enabled via --marionette
+1511186281294	Marionette	INFO	Listening on port 39621
+1511186281355	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511186281401	Marionette	DEBUG	Register listener.js for window 2147483649
+1511186281421	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511186282273	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511186282274	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511186282794	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511186282887	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-rooms=1&q-room-0-adults=2&q-room-0-children=0&sort-order=DISTANCE_FROM_LANDMARK"
+
+(/usr/lib/firefox/firefox:10833): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511186285120	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1511186285120	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511186285120	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511186285487	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1511186285487	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1511186285929	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-rooms=1&q-room-0-adults=2&q-room-0-children=0&sort-order=DISTANCE_FROM_LANDMARK"
+[Child 10833, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1511186576089	geckodriver	INFO	geckodriver 0.19.1
+1511186576092	geckodriver	INFO	Listening on 127.0.0.1:57851
+1511186577174	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.O5eYJzsvPiNK"
+1511186577571	Marionette	INFO	Enabled via --marionette
+1511186578479	Marionette	INFO	Listening on port 36661
+1511186578583	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511186578637	Marionette	DEBUG	Register listener.js for window 2147483649
+1511186578646	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511186582851	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511186582851	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511186583398	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511186583486	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-11-29&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+
+(/usr/lib/firefox/firefox:11494): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511186586152	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511186586152	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511186586152	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1511186586580	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1511186587148	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-11-29&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+[Child 11494, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1511186657023	geckodriver	INFO	geckodriver 0.19.1
+1511186657025	geckodriver	INFO	Listening on 127.0.0.1:38003
+1511186658115	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.tlqNLFkeH3hd"
+1511186658486	Marionette	INFO	Enabled via --marionette
+1511186659425	Marionette	INFO	Listening on port 43603
+1511186659519	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511186659566	Marionette	DEBUG	Register listener.js for window 2147483649
+1511186659576	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511186663282	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511186663282	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511186664657	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511186664754	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-11-30&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+
+(/usr/lib/firefox/firefox:11721): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511186668316	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511186668316	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511186668316	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1511186668698	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1511186668700	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1511186669160	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-11-30&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+[Child 11721, Chrome_ChildThread] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 11721, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1511186739370	geckodriver	INFO	geckodriver 0.19.1
+1511186739372	geckodriver	INFO	Listening on 127.0.0.1:36227
+1511186740462	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.cxj9LGVgD1pr"
+1511186740843	Marionette	INFO	Enabled via --marionette
+1511186741776	Marionette	INFO	Listening on port 36315
+1511186741868	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511186741911	Marionette	DEBUG	Register listener.js for window 2147483649
+1511186741921	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511186743354	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511186743355	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511186743877	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511186743993	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-12-01&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+
+(/usr/lib/firefox/firefox:11909): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511186746409	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1511186746409	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511186746409	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511186746831	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1511186746833	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1511186747286	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-12-01&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+[Child 11909, Chrome_ChildThread] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 11909, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1511186822608	geckodriver	INFO	geckodriver 0.19.1
+1511186822611	geckodriver	INFO	Listening on 127.0.0.1:47535
+1511186823694	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.7voY15DfJWo6"
+1511186824079	Marionette	INFO	Enabled via --marionette
+1511186825021	Marionette	INFO	Listening on port 42897
+1511186825099	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511186825147	Marionette	DEBUG	Register listener.js for window 2147483649
+1511186825163	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511186826902	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511186826902	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511186827458	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511186827548	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-12-02&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+
+(/usr/lib/firefox/firefox:12100): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511186830122	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1511186830122	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511186830122	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511186830541	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1511186830543	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1511186831178	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-12-02&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+[Child 12100, Chrome_ChildThread] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 12100, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1511186901075	geckodriver	INFO	geckodriver 0.19.1
+1511186901077	geckodriver	INFO	Listening on 127.0.0.1:51621
+1511186902160	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.RkYtG63oyFwZ"
+1511186902529	Marionette	INFO	Enabled via --marionette
+1511186903476	Marionette	INFO	Listening on port 46809
+1511186903566	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511186903610	Marionette	DEBUG	Register listener.js for window 2147483649
+1511186903631	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511186907890	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511186907891	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511186908643	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511186908736	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-12-03&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+
+(/usr/lib/firefox/firefox:12283): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511186911691	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1511186911691	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1511186911691	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1511186912081	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511186912082	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1511186912786	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-12-03&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+[Child 12283, Chrome_ChildThread] WARNING: pipe error (44): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 12283, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1511186988003	geckodriver	INFO	geckodriver 0.19.1
+1511186988006	geckodriver	INFO	Listening on 127.0.0.1:41395
+1511186989089	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.JimXK41jBeDI"
+1511186989462	Marionette	INFO	Enabled via --marionette
+1511186990401	Marionette	INFO	Listening on port 35441
+1511186990495	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511186990544	Marionette	DEBUG	Register listener.js for window 2147483649
+1511186990566	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511186994117	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511186994118	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511186994671	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511186994765	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-12-04&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+1511186996092	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1511186996092	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1511186996092	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+
+(/usr/lib/firefox/firefox:12519): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511186997513	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1511186997513	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511186998251	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-12-04&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+[Child 12519, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1511187073090	geckodriver	INFO	geckodriver 0.19.1
+1511187073094	geckodriver	INFO	Listening on 127.0.0.1:54749
+1511187074175	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.WaiPRAROpp7N"
+1511187074543	Marionette	INFO	Enabled via --marionette
+1511187075442	Marionette	INFO	Listening on port 38545
+1511187075488	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511187075531	Marionette	DEBUG	Register listener.js for window 2147483649
+1511187075544	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511187077148	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511187077148	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511187077664	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511187077781	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-12-05&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+
+(/usr/lib/firefox/firefox:12699): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511187080929	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1511187080929	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1511187080929	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511187081324	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1511187081324	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1511187082109	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-12-05&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
+[Child 12699, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1511187164438	geckodriver	INFO	geckodriver 0.19.1
+1511187164442	geckodriver	INFO	Listening on 127.0.0.1:50421
+1511187165523	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ZU4cEdu629s6"
+1511187165884	Marionette	INFO	Enabled via --marionette
+1511187166816	Marionette	INFO	Listening on port 46849
+1511187166859	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511187166902	Marionette	DEBUG	Register listener.js for window 2147483649
+1511187166917	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511187167897	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511187167897	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511187168586	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511187168685	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-rooms=1&q-room-0-adults=2&q-room-0-children=0&sort-order=DISTANCE_FROM_LANDMARK"
+
+(/usr/lib/firefox/firefox:12890): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511187171089	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511187171089	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511187171089	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1511187171606	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1511187171606	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1511187171607	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1511187172788	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-rooms=1&q-room-0-adults=2&q-room-0-children=0&sort-order=DISTANCE_FROM_LANDMARK"
+[Child 12890, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1511187234091	geckodriver	INFO	geckodriver 0.19.1
+1511187234094	geckodriver	INFO	Listening on 127.0.0.1:33315
+1511187235176	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.3SNjrkPpJiDl"
+1511187235560	Marionette	INFO	Enabled via --marionette
+1511187236472	Marionette	INFO	Listening on port 41183
+1511187236489	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511187236544	Marionette	DEBUG	Register listener.js for window 2147483649
+1511187236554	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511187237204	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511187237204	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511187237752	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511187237857	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-rooms=1&q-room-0-adults=2&q-room-0-children=0&sort-order=DISTANCE_FROM_LANDMARK"
+
+(/usr/lib/firefox/firefox:13079): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511187240084	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511187240084	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511187240084	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1511187240626	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1511187240626	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1511187240627	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1511187241674	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-rooms=1&q-room-0-adults=2&q-room-0-children=0&sort-order=DISTANCE_FROM_LANDMARK"
+[Child 13079, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1511187303595	geckodriver	INFO	geckodriver 0.19.1
+1511187303597	geckodriver	INFO	Listening on 127.0.0.1:41453
+1511187304681	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.jUa1tHEdp2BD"
+1511187305068	Marionette	INFO	Enabled via --marionette
+1511187305996	Marionette	INFO	Listening on port 36069
+1511187306089	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511187306132	Marionette	DEBUG	Register listener.js for window 2147483649
+1511187306141	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511187306889	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511187306889	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511187307380	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511187307482	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-rooms=1&q-room-0-adults=2&q-room-0-children=0&sort-order=DISTANCE_FROM_LANDMARK"
+
+(/usr/lib/firefox/firefox:13293): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1511187310220	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511187310220	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511187310220	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1511187310677	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1511187310677	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1511187310677	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1511187311595	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-rooms=1&q-room-0-adults=2&q-room-0-children=0&sort-order=DISTANCE_FROM_LANDMARK"
+[Child 13293, Chrome_ChildThread] WARNING: pipe error (44): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 13293, Chrome_ChildThread] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 13293, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-CzUSSm/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
