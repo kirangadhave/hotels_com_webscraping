@@ -5,7 +5,7 @@ You only need to provide a search url for city and occupany.
 You can have a list of dates over which searches are made automatically using the url above and data is scraped.
 
 Data is scraped according to following file:
-https://docs.google.com/document/d/1LujatvJQ5eqA0NXRHEkulkhOCjKEUMO-O0djw0iOQDY
+https://docs.google.com/document/d/1LujatvJQ5eqA0NXRHEkulkhOCjKEUMO-O0djw0iOQDY/edit?usp=sharing
 
 Done as a project for a MBA program in one of the most prestigious MBA schools in India.
 
