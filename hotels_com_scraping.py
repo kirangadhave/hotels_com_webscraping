@@ -57,6 +57,10 @@ dates = dates.split(':')
 for i, date in enumerate(dates):
     dates[i] = parser.parse(date)
 
+# Columbus
+# Arlington
+# Buffalo
+
 
 def get_search_url(date):
     # Edit this url for updates
@@ -94,6 +98,10 @@ def get_hotel_details(hotel_url, date):
         rating = soup.find('span', attrs={'class': "star-rating-text"})
         rating = rating.find('span').text.replace("stars", "")
         hotel.rating = rating
+
+        # Guest Rating
+        gr = soup.find('span', attrs={'class': 'rating'})
+        hotel.guest_rating = gr.text
 
         # Address
         add = soup.find('span', attrs={'class':'property-address'})
@@ -164,11 +172,33 @@ for search in searches:
     links = [link for link in links if "travelads" not in link]
     try:
         for link in links:
-            hotels.append(get_hotel_details(link, search[0]))
+            a = get_hotel_details(link, search[0])
+            if a is not None:
+                hotels.append(a)
     except:
         print("Error")
     print(len(hotels), len(links))
+    # break
 
+# print([x.name for x in hotels])
+
+hotels = sorted(hotels, key=lambda x: x.name)
+# print()
+# print([x.name for x in hotels])
+
+hot_names = [x.name for x in hotels]
+hot_names = set(hot_names)
+
+for n in hot_names:
+    hot_count = [p for p in hotels if p.name == n]
+    if len(hot_count) < 10:
+        hotels.extend([hot_count[0]]*(10 - len(hot_count)))
+# print()
+# print([x.name for x in hotels])
+hotels = sorted(hotels, key=lambda x: x.name)
+# print()
+# print([x.name for x in hotels])
+print(len(hotels))
 output = [str(h.get_csv() + "\n") for h in hotels if h is not None]
 
 with open('output.csv', 'w') as f:
