@@ -30,3 +30,11 @@ Run following steps:
 
 5. Unzip the archive and move the binary to /usr/local/bin. (may require root access)
 6. Will also need FireFox to be installed.
+
+To use:
+Go to hotels.com and make a search for a city with occupancy settings as desired. Copy the URL of search results. It looks as follows:
+
+    https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=2017-11-29&q-check-out=2017-12-07&q-rooms=1&q-room-0-adults=2&q-room-0-children=0
+In the long url above there is a term which looks like: "check-in=2017-11-29&q-ch"
+
+We will split the above url in 3 parts. Before the date, date and after the date. We can then replace our date string with the date we want. This is what the get_search_url method does.
