@@ -58,13 +58,14 @@ for i, date in enumerate(dates):
     dates[i] = parser.parse(date)
 
 # Columbus
-# Arlington
-# Buffalo
+# Arlington, TX
+# Buffalo, NY
 
 
 def get_search_url(date):
     # Edit this url for updates
-    search_url = "https://www.hotels.com/search.do?resolved-location=CITY%3A1489699%3AUNKNOWN%3AUNKNOWN&destination-id=1489699&q-destination=Asheville,%20North%20Carolina,%20United%20States%20of%20America&q-check-in=" \
+
+    search_url = "https://www.hotels.com/search.do?resolved-location=CITY%3A1488680%3AUNKNOWN%3AUNKNOWN&destination-id=1488680&q-destination=Buffalo,%20New%20York,%20United%20States%20of%20America&q-check-in="\
                  + date + \
                  "&q-check-out=2017-12-06&q-rooms=1&q-room-0-adults=2&q-room-0-children=0"
     return search_url

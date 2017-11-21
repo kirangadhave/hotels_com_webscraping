@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5b6bf50-1d78-4621-b8c5-f3cbf0d37fbf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/preferred-vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_asheville.xlsx" afterPath="$PROJECT_DIR$/output_asheville.xlsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/geckodriver.log" afterPath="$PROJECT_DIR$/geckodriver.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hotels_com_scraping.py" afterPath="$PROJECT_DIR$/hotels_com_scraping.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output.csv" afterPath="$PROJECT_DIR$/output.csv" />
@@ -21,8 +18,8 @@
       <file leaf-file-name="hotels_com_scraping.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hotels_com_scraping.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="449">
-              <caret line="62" column="0" lean-forward="true" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+            <state relative-caret-position="611">
+              <caret line="67" column="208" lean-forward="false" selection-start-line="67" selection-start-column="208" selection-end-line="67" selection-end-column="208" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
                 <element signature="e#3967#4807#0" expanded="false" />
@@ -248,8 +245,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hotels_com_scraping.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="62" column="0" lean-forward="true" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+        <state relative-caret-position="611">
+          <caret line="67" column="208" lean-forward="false" selection-start-line="67" selection-start-column="208" selection-end-line="67" selection-end-column="208" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
             <element signature="e#3967#4807#0" expanded="false" />
