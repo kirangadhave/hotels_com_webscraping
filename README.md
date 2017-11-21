@@ -29,3 +29,4 @@ Run following steps:
     https://github.com/mozilla/geckodriver/releases
 
 5. Unzip the archive and move the binary to /usr/local/bin. (may require root access)
+6. Will also need FireFox to be installed.
