@@ -17,3 +17,15 @@ I have used Selenium to emulate scrolling using FireFox driver.
 You will need geckodriver binary for FireFox driver to work. download appropriate geckodriver and place it in /usr/local/bin. Or download it and add the folder to PATH variable.
 
 Still needs fine tuning, sometimes the hotel's link navigate to search page itself. But gets around 400-450 results with various details about each hotel, such as max rent, actual rent, free wifi, free breakfast and swimming pool. Still to add Availability on a date feature, since the website just does not show search results if hotels are not available on a date.
+
+
+Run following steps:
+1. Check if python3.6 installed
+2. Check if pip3 is installed
+3. Download BeautifulSoup
+    pip3 install BeautifulSoup4
+
+4. Download geckodriver for appropriate version from here:
+    https://github.com/mozilla/geckodriver/releases
+
+5. Unzip the archive and move the binary to /usr/local/bin. (may require root access)
